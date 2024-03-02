@@ -1,1 +1,1 @@
-# Projects from Stanford's CS330: Deep Multi-Task and Meta Learning
+## Projects from Stanford's CS 330: Deep Multi-Task and Meta Learning
